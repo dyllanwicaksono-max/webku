@@ -16,11 +16,11 @@ body{
 }
 
 .menu{
-    background-color:#417aa8
+    background-color:#417aa8;
     height:50px;
     line-height:50px;
     posisition:relative;
-    width:90%
+    width:90%;
     margin:0 auto;
     padding:0 auto;
 }
@@ -28,4 +28,5 @@ body{
 .jarak{
     padding:0 2pc;
 }
+
 
